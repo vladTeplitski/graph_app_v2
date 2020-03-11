@@ -1,0 +1,1 @@
+curl 'http://irwebsites.co.il/Stocks/api/getHistorical?stock_number=199018&token=33b56862a87637a205ea'
